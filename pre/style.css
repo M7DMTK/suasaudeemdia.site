@@ -17,7 +17,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background: url("bg.jpeg") no-repeat fixed center;
+	background: url("bg2.jpg") no-repeat fixed center;
 	background-size: cover;
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 .black {
-	background-color: black;
+	background-color: rgb(255, 255, 255);
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
@@ -51,10 +51,10 @@ body {
 }
 
 .black h1 {
-	color: yellow;
+	color: rgb(0, 0, 0);
 }
 
 .black p {
 	font-size: 18px;
-	color: white;
+	color: rgb(0, 0, 0);
 }
